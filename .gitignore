@@ -1,0 +1,12 @@
+djs/
+.env
+.state/*
+!.state/seen_jobs.json
+__pycache__/
+*.pyc
+*.pyo
+.playwright/
+*.log
+.DS_Store
+.pytest_cache/
+.venv/
